@@ -1,0 +1,24 @@
+/* Stile per le righe della tabella */
+.table-active {
+    background-color: #f5a623; /* Esempio di sfondo giallo */
+  }
+  
+  .table-primary {
+    background-color: #007bff; /* Esempio di sfondo blu */
+  }
+  
+  /* Aggiungi altri stili per le altre classi di righe qui */
+  
+  /* Stile per le celle (td o th) della tabella */
+  .table-active td,
+  .table-active th {
+    color: #fff; /* Esempio di testo bianco */
+  }
+  
+  .table-primary td,
+  .table-primary th {
+    color: #fff; /* Esempio di testo bianco */
+  }
+  
+  /* Aggiungi altri stili per le altre classi di celle qui */
+  
